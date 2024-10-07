@@ -8,7 +8,7 @@ global.sessionid ='put your session id here'
 //owmner v card
 global.ytname = "YT: Ayolite FC" //ur yt chanel name
 global.socialm = "GitHub: AYOLITE FC" //ur github or insta name
-global.location = "Port Harcourt, Nigeria" //ur location
+global.location = "Ekiti", Nigeria" //ur location
 
 //new
 global.botname = 'Ayolite FC' //ur bot name
