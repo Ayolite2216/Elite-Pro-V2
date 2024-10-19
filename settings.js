@@ -8,7 +8,7 @@ global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
+global.botname = 'SALLY' //ur bot name
 global.ownernumber = '2348109263390' //ur owner number
 global.ownername = 'ELITE-PRO-V2' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
@@ -20,7 +20,7 @@ global.packname = "Sticker By"
 global.author = "ELITE-PRO-V2\n\n+2348109263390"
 global.creator = "2348109263390@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["2347036921983"] // Premium User
 global.hituet = 0
 //Stop here don't exceeds'-----------------
 
